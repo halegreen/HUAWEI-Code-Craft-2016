@@ -41,4 +41,6 @@ void findshortest(int shortest, int meetdemand[][MAXNODES],
 void get_line(int result[], int *info[]);
 bool leaveOut(int metrix[][MAXNODES], int s);
 
+=======
+>>>>>>> 1013fb085a1bd030ccc4c12bd52a13d2cd053485
 #endif
